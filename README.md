@@ -16,11 +16,14 @@ Hey there! I’m Vivek Singh, a passionate engineering student and developer who
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=vivrz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vivrz)
-
+<div align="center">
+  <img src="https://github.com/Vivrz/Vivrz/blob/output/github-snake-dark.svg" alt="snake gif" />
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h2>💰 You can help me by Donating</h2>
+  
+  <a href="https://buymeacoffee.com/vivrz">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
