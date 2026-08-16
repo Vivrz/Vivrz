@@ -23,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viveksingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-singh-25841224b/)
 [![Instagram](https://img.shields.io/badge/Instagram-numen_vivek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/numen_vivek/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-viveksingh_0108?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/viveksingh_0108/)
+[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-vivrz.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://vivrz.github.io/)
 <br>
 
 </div>
