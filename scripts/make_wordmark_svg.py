@@ -49,7 +49,7 @@ FONT_PATH = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 FONT_INDEX = 0   # face within a .ttc
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.
-TEXT = "VIV"
+TEXT = "VIZ"
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
