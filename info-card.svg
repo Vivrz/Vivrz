@@ -1,0 +1,13 @@
+<svg viewBox="0 0 490 184" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
+<rect width="490" height="184" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="490" height="34" rx="8" fill="#161b22"/>
+<circle cx="18" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="17" r="5" fill="#27c93f"/>
+<text x="245.0" y="21" text-anchor="middle" font-size="12" fill="#8b949e">vivrz@github</text>
+<style>.line{opacity:0;animation:fadeslide .4s ease-out forwards;}@keyframes fadeslide{from{opacity:0;transform:translateX(-8px);}to{opacity:1;transform:translateX(0);}}</style>
+<text class="line" style="animation-delay:0.15s" x="20" y="50" font-size="13"><tspan fill="#39d353">Now</tspan><tspan fill="#8b949e" dx="8">Building cool stuff with python &amp; JS and exploring AI , RAG .</tspan></text>
+<text class="line" style="animation-delay:0.27s" x="20" y="76" font-size="13"><tspan fill="#39d353">Prev</tspan><tspan fill="#8b949e" dx="8">Previously worked at Hestabit Technologies as an Assocaite Software developer (Build an internal tool - HestaWiki ent-to-end)</tspan></text>
+<text class="line" style="animation-delay:0.39s" x="20" y="102" font-size="13"><tspan fill="#39d353">Stack</tspan><tspan fill="#8b949e" dx="8">Python, JavaScript, Langchain , Langraph , RAG , Agentic AI , Docker , Nginx </tspan></text>
+<text class="line" style="animation-delay:0.51s" x="20" y="128" font-size="13"><tspan fill="#39d353">Highlights</tspan><tspan fill="#8b949e" dx="8">Solved around 500 problems on Leetcode .</tspan></text>
+</svg>
