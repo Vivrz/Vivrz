@@ -18,10 +18,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r scripts/requirements.txt
-      - run: python scripts/fetch_contributions.py Vivrz
-      - run: python scripts/render_heatmap_svg.py
+      - run: python scripts/generate_streak_svg.py Vivrz streak.svg
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution streak [skip ci]"
+          file_pattern: "streak.svg"

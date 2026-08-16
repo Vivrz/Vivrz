@@ -12,7 +12,7 @@
 </table>
 
 <h3><code>vivrz@github ~ $ ./contributions.sh</code></h3>
-<img src="./streak.svg" width="860" />
+<img src="./streak.svg" width="888" />
 
 <h3><code>Vivrz@github ~ $ ./links.sh</code></h3>
 
